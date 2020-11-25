@@ -1,0 +1,4 @@
+C:\Users\maxip\Documents\Schule\4 Klasse\Prog\C#\chuck-norris-import-quiz-MaxiPineker\ChuckNorrisImport\ChuckNorrisImport\obj\Debug\netcoreapp3.1\ChuckNorrisImport.csprojAssemblyReference.cache
+C:\Users\maxip\Documents\Schule\4 Klasse\Prog\C#\chuck-norris-import-quiz-MaxiPineker\ChuckNorrisImport\ChuckNorrisImport\obj\Debug\netcoreapp3.1\ChuckNorrisImport.AssemblyInfoInputs.cache
+C:\Users\maxip\Documents\Schule\4 Klasse\Prog\C#\chuck-norris-import-quiz-MaxiPineker\ChuckNorrisImport\ChuckNorrisImport\obj\Debug\netcoreapp3.1\ChuckNorrisImport.AssemblyInfo.cs
+C:\Users\maxip\Documents\Schule\4 Klasse\Prog\C#\chuck-norris-import-quiz-MaxiPineker\ChuckNorrisImport\ChuckNorrisImport\obj\Debug\netcoreapp3.1\ChuckNorrisImport.csproj.CoreCompileInputs.cache
